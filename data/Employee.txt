@@ -1,0 +1,900 @@
+1010100012
+Tran Huu Binh
+1995-08-15
+Nam
+0901000012
+Ha Noi
+101
+2024-03-20
+Da nghi viec
+1010100013
+Le Minh Cuong
+2000-11-22
+Nam
+0901000013
+Ho Chi Minh
+101
+2026-02-15
+Dang lam
+1010100014
+Pham Duc Dung
+1992-01-05
+Nam
+0901000014
+Hue
+101
+2025-06-11
+Dang lam
+1010100015
+Hoang Quang Huy
+1997-07-19
+Nam
+0901000015
+Can Tho
+101
+2025-10-25
+Dang nghi phep
+1010100016
+Vu Ngoc Kien
+1999-09-09
+Nam
+0901000016
+Da Nang
+101
+2026-01-08
+Dang lam
+1010100017
+Vo Xuan Lam
+1994-12-30
+Nam
+0901000017
+Ha Noi
+101
+2023-05-14
+Dang lam
+1010100018
+Dang Cong Nam
+2001-04-18
+Nam
+0901000018
+Ho Chi Minh
+101
+2026-05-01
+Dang lam
+1010100019
+Bui Viet Phong
+1996-03-25
+Nam
+0901000019
+Hue
+101
+2024-08-19
+Dang lam
+1010100020
+Do Dinh Quan
+1993-10-12
+Nam
+0901000020
+Can Tho
+101
+2025-12-05
+Dang lam
+1010100021
+Nguyen Van Son
+1998-02-28
+Nam
+0901000021
+Da Nang
+101
+2025-07-22
+Dang lam
+1010100022
+Tran Huu Tuan
+2002-06-16
+Nam
+0901000022
+Ha Noi
+101
+2026-04-10
+Dang lam
+1010100023
+Le Minh Thang
+1991-11-03
+Nam
+0901000023
+Ho Chi Minh
+101
+2022-09-17
+Da nghi viec
+1010200024
+Pham Thi Anh
+1999-05-20
+Nu
+0902000024
+Hue
+101
+2026-03-12
+Dang lam
+1010200025
+Hoang Ngoc Chau
+1995-12-08
+Nu
+0902000025
+Can Tho
+101
+2025-11-30
+Dang lam
+1010200026
+Vu Thu Diep
+2000-08-14
+Nu
+0902000026
+Da Nang
+101
+2026-01-20
+Dang lam
+1010200027
+Vo Phuong Ha
+1997-04-02
+Nu
+0902000027
+Ha Noi
+101
+2025-09-05
+Dang nghi phep
+1010200028
+Dang Kieu Hoa
+1994-01-25
+Nu
+0902000028
+Ho Chi Minh
+101
+2024-06-18
+Dang lam
+1010200029
+Bui Bich Huong
+2001-10-11
+Nu
+0902000029
+Hue
+101
+2026-02-28
+Dang lam
+1010200030
+Do My Lan
+1996-07-29
+Nu
+0902000030
+Can Tho
+101
+2025-08-14
+Dang lam
+1010200031
+Nguyen Diem Linh
+1992-03-07
+Nu
+0902000031
+Da Nang
+101
+2023-11-09
+Dang lam
+1010200032
+Tran Thi Mai
+1998-09-15
+Nu
+0902000032
+Ha Noi
+101
+2025-12-22
+Dang lam
+1010200033
+Le Ngoc Quyen
+2003-02-18
+Nu
+0902000033
+Ho Chi Minh
+101
+2026-05-15
+Dang lam
+1010200034
+Pham Thu Trang
+1995-11-26
+Nu
+0902000034
+Hue
+101
+2024-04-10
+Da nghi viec
+1010200035
+Hoang Phuong Vy
+1999-06-04
+Nu
+0902000035
+Can Tho
+101
+2026-03-05
+Dang lam
+1020100036
+Nguyen Van An
+2000-01-15
+Nam
+0901000036
+Da Nang
+102
+2025-09-12
+Dang lam
+1020100037
+Tran Huu Binh
+1996-04-20
+Nam
+0901000037
+Ha Noi
+102
+2024-11-05
+Dang lam
+1020100038
+Le Minh Cuong
+1991-08-30
+Nam
+0901000038
+Ho Chi Minh
+102
+2023-07-22
+Dang lam
+1020100039
+Pham Duc Dung
+1998-12-10
+Nam
+0901000039
+Hue
+102
+2026-01-18
+Dang nghi phep
+1020100040
+Hoang Quang Huy
+1994-05-05
+Nam
+0901000040
+Can Tho
+102
+2025-04-25
+Dang lam
+1020100041
+Vu Ngoc Kien
+2001-09-28
+Nam
+0901000041
+Da Nang
+102
+2026-02-10
+Dang lam
+1020100042
+Vo Xuan Lam
+1997-02-14
+Nam
+0901000042
+Ha Noi
+102
+2025-10-01
+Dang lam
+1020100043
+Dang Cong Nam
+1993-06-22
+Nam
+0901000043
+Ho Chi Minh
+102
+2024-01-15
+Da nghi viec
+1020100044
+Bui Viet Phong
+1999-11-11
+Nam
+0901000044
+Hue
+102
+2026-04-20
+Dang lam
+1020100045
+Do Dinh Quan
+1995-03-08
+Nam
+0901000045
+Can Tho
+102
+2025-08-08
+Dang lam
+1020100046
+Nguyen Van Son
+2002-07-19
+Nam
+0901000046
+Da Nang
+102
+2026-05-30
+Dang lam
+1020100047
+Tran Huu Tuan
+1992-10-25
+Nam
+0901000047
+Ha Noi
+102
+2023-12-12
+Dang lam
+1020100048
+Le Minh Thang
+1998-01-31
+Nam
+0901000048
+Ho Chi Minh
+102
+2025-11-18
+Dang lam
+1020200049
+Pham Thi Anh
+1996-05-09
+Nu
+0902000049
+Hue
+102
+2024-09-25
+Dang lam
+1020200050
+Hoang Ngoc Chau
+2000-12-14
+Nu
+0902000050
+Can Tho
+102
+2026-03-22
+Dang nghi phep
+1020200051
+Vu Thu Diep
+1994-08-21
+Nu
+0902000051
+Da Nang
+102
+2025-05-10
+Dang lam
+1020200052
+Vo Phuong Ha
+1991-03-05
+Nu
+0902000052
+Ha Noi
+102
+2022-11-01
+Da nghi viec
+1020200053
+Dang Kieu Hoa
+1997-10-18
+Nu
+0902000053
+Ho Chi Minh
+102
+2026-01-05
+Dang lam
+1020200054
+Bui Bich Huong
+2001-02-27
+Nu
+0902000054
+Hue
+102
+2026-04-15
+Dang lam
+1020200055
+Do My Lan
+1993-07-07
+Nu
+0902000055
+Can Tho
+102
+2024-03-30
+Dang lam
+1020200056
+Nguyen Diem Linh
+1998-11-15
+Nu
+0902000056
+Da Nang
+102
+2025-12-10
+Dang lam
+1020200057
+Tran Thi Mai
+1995-04-26
+Nu
+0902000057
+Ha Noi
+102
+2025-08-22
+Dang lam
+1020200058
+Le Ngoc Quyen
+1999-09-02
+Nu
+0902000058
+Ho Chi Minh
+102
+2026-02-18
+Dang lam
+1020200059
+Pham Thu Trang
+2003-01-11
+Nu
+0902000059
+Hue
+102
+2026-06-05
+Dang lam
+1020200060
+Hoang Phuong Vy
+1992-06-20
+Nu
+0902000060
+Can Tho
+102
+2023-10-15
+Dang lam
+1030100061
+Nguyen Van An
+1997-03-14
+Nam
+0901000061
+Da Nang
+103
+2025-07-01
+Dang lam
+1030100062
+Tran Huu Binh
+1991-12-05
+Nam
+0901000062
+Ha Noi
+103
+2022-05-20
+Da nghi viec
+1030100063
+Le Minh Cuong
+1996-08-19
+Nam
+0901000063
+Ho Chi Minh
+103
+2025-10-10
+Dang lam
+1030100064
+Pham Duc Dung
+2000-02-25
+Nam
+0901000064
+Hue
+103
+2026-03-08
+Dang lam
+1030100065
+Hoang Quang Huy
+1993-11-11
+Nam
+0901000065
+Can Tho
+103
+2024-08-15
+Dang lam
+1030100066
+Vu Ngoc Kien
+1998-05-06
+Nam
+0901000066
+Da Nang
+103
+2025-12-25
+Dang nghi phep
+1030100067
+Vo Xuan Lam
+1995-09-30
+Nam
+0901000067
+Ha Noi
+103
+2025-04-12
+Dang lam
+1030100068
+Dang Cong Nam
+1992-01-18
+Nam
+0901000068
+Ho Chi Minh
+103
+2023-02-28
+Dang lam
+1030100069
+Bui Viet Phong
+1999-07-22
+Nam
+0901000069
+Hue
+103
+2026-01-30
+Dang lam
+1030100070
+Do Dinh Quan
+2002-04-05
+Nam
+0901000070
+Can Tho
+103
+2026-05-10
+Dang lam
+1030100071
+Nguyen Van Son
+1994-10-16
+Nam
+0901000071
+Da Nang
+103
+2025-06-20
+Dang lam
+1030100072
+Tran Huu Tuan
+1997-12-08
+Nam
+0901000072
+Ha Noi
+103
+2026-02-05
+Dang lam
+1030100073
+Le Minh Thang
+2001-03-29
+Nam
+0901000073
+Ho Chi Minh
+103
+2026-04-25
+Dang lam
+1030200074
+Pham Thi Anh
+1996-08-12
+Nu
+0902000074
+Hue
+103
+2025-11-08
+Dang lam
+1030200075
+Hoang Ngoc Chau
+1991-05-24
+Nu
+0902000075
+Can Tho
+103
+2022-07-15
+Da nghi viec
+1030200076
+Vu Thu Diep
+1998-02-07
+Nu
+0902000076
+Da Nang
+103
+2026-01-22
+Dang lam
+1030200077
+Vo Phuong Ha
+1993-11-19
+Nu
+0902000077
+Ha Noi
+103
+2024-12-05
+Dang lam
+1030200078
+Dang Kieu Hoa
+2000-06-03
+Nu
+0902000078
+Ho Chi Minh
+103
+2026-03-18
+Dang lam
+1030200079
+Bui Bich Huong
+1995-10-28
+Nu
+0902000079
+Hue
+103
+2025-09-10
+Dang nghi phep
+1030200080
+Do My Lan
+1992-04-15
+Nu
+0902000080
+Can Tho
+103
+2023-08-25
+Dang lam
+1030200081
+Nguyen Diem Linh
+1999-01-09
+Nu
+0902000081
+Da Nang
+103
+2026-05-05
+Dang lam
+1030200082
+Tran Thi Mai
+1994-09-21
+Nu
+0902000082
+Ha Noi
+103
+2025-02-14
+Dang lam
+1030200083
+Le Ngoc Quyen
+2001-07-06
+Nu
+0902000083
+Ho Chi Minh
+103
+2026-04-30
+Dang lam
+1030200084
+Pham Thu Trang
+1997-12-30
+Nu
+0902000084
+Hue
+103
+2025-10-20
+Dang lam
+1030200085
+Hoang Phuong Vy
+1996-03-11
+Nu
+0902000085
+Can Tho
+103
+2024-06-12
+Dang lam
+1040100086
+Nguyen Van An
+1992-08-25
+Nam
+0901000086
+Da Nang
+104
+2023-11-05
+Dang lam
+1040100087
+Tran Huu Binh
+1998-01-14
+Nam
+0901000087
+Ha Noi
+104
+2026-02-28
+Dang lam
+1040100088
+Le Minh Cuong
+1995-06-09
+Nam
+0901000088
+Ho Chi Minh
+104
+2025-08-10
+Dang lam
+1040100089
+Pham Duc Dung
+2000-10-31
+Nam
+0901000089
+Hue
+104
+2026-05-20
+Dang lam
+1040100090
+Hoang Quang Huy
+1993-04-17
+Nam
+0901000090
+Can Tho
+104
+2024-01-25
+Da nghi viec
+1040100091
+Vu Ngoc Kien
+1999-12-05
+Nam
+0901000091
+Da Nang
+104
+2026-04-12
+Dang nghi phep
+1040100092
+Vo Xuan Lam
+1991-07-22
+Nam
+0901000092
+Ha Noi
+104
+2022-10-18
+Dang lam
+1040100093
+Dang Cong Nam
+1996-02-08
+Nam
+0901000093
+Ho Chi Minh
+104
+2025-05-30
+Dang lam
+1040100094
+Bui Viet Phong
+2001-09-19
+Nam
+0901000094
+Hue
+104
+2026-03-25
+Dang lam
+1040100095
+Do Dinh Quan
+1994-11-02
+Nam
+0901000095
+Can Tho
+104
+2025-01-15
+Dang lam
+1040100096
+Nguyen Van Son
+1997-05-27
+Nam
+0901000096
+Da Nang
+104
+2025-11-20
+Dang lam
+1040100097
+Tran Huu Tuan
+2002-08-11
+Nam
+0901000097
+Ha Noi
+104
+2026-06-10
+Dang lam
+1040100098
+Le Minh Thang
+1998-12-24
+Nam
+0901000098
+Ho Chi Minh
+104
+2026-01-05
+Dang lam
+1040200099
+Pham Thi Anh
+1995-02-16
+Nu
+0902000099
+Hue
+104
+2025-07-12
+Dang lam
+1040200100
+Hoang Ngoc Chau
+2000-07-08
+Nu
+0902000100
+Can Tho
+104
+2026-04-08
+Dang lam
+1040200101
+Vu Thu Diep
+1993-01-29
+Nu
+0902000101
+Da Nang
+104
+2024-05-15
+Dang lam
+1040200102
+Vo Phuong Ha
+1999-04-14
+Nu
+0902000102
+Ha Noi
+104
+2026-02-20
+Dang nghi phep
+1040200103
+Dang Kieu Hoa
+1992-09-06
+Nu
+0902000103
+Ho Chi Minh
+104
+2023-12-05
+Da nghi viec
+1040200104
+Bui Bich Huong
+1997-06-25
+Nu
+0902000104
+Hue
+104
+2025-10-30
+Dang lam
+1040200105
+Do My Lan
+2001-11-18
+Nu
+0902000105
+Can Tho
+104
+2026-05-25
+Dang lam
+1040200106
+Nguyen Diem Linh
+1994-03-03
+Nu
+0902000106
+Da Nang
+104
+2024-09-10
+Dang lam
+1040200107
+Tran Thi Mai
+1998-10-12
+Nu
+0902000107
+Ha Noi
+104
+2026-01-28
+Dang lam
+1040200108
+Le Ngoc Quyen
+1996-01-07
+Nu
+0902000108
+Ho Chi Minh
+104
+2025-04-20
+Dang lam
+1040200109
+Pham Thu Trang
+2002-05-22
+Nu
+0902000109
+Hue
+104
+2026-06-15
+Dang lam
+1040200110
+Hoang Phuong Vy
+1991-08-09
+Nu
+0902000110
+Can Tho
+104
+2022-11-25
+Dang lam
+1040100099
+Nguyen Van A
+20/10/1999
+Nam
+0387115950
+Da Nang
+104
+12/11/2026
+Dang lam
