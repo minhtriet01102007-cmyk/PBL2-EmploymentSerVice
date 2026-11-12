@@ -1,1 +1,39 @@
-
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "type": "cppbuild",
+            "label": "Build Raylib Project",
+            "command": "g++",
+            "args": [
+                "-g",
+                "main.cpp",
+                "gui/AppGui.cpp",
+                "models/*.cpp",
+                "dal/*.cpp",
+                "bll/*.cpp",
+                "-o",
+                "app.exe",
+                "-I", "C:/raylib/include",
+                "-I", "C:/raylib/raylib/src",
+                "-L", "C:/raylib/lib",
+                "-L", "C:/raylib/raylib/src",
+                "-lraylib",
+                "-lopengl32",
+                "-lgdi32",
+                "-lwinmm"
+            ],
+            "options": {
+                "cwd": "${workspaceFolder}"
+            },
+            "problemMatcher": [
+                "$gcc"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "detail": "Compiler: g++"
+        }
+    ]
+}
